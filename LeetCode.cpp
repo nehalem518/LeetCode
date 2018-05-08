@@ -25,3 +25,10 @@ public:
 	}
 };
 
+
+//int main()
+//{
+//	vector<int> ivec = { 0, 4, 3, 0 };
+//	Solution s;
+//	vector<int> result = s.twoSum(ivec, 0);
+//}
